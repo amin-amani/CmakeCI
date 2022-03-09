@@ -1,0 +1,2 @@
+# CmakeCI
+Testing c++ CI
